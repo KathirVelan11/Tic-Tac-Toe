@@ -2,7 +2,6 @@
 
 This is a simple console-based **Tic Tac Toe** game written in C.  
 You can play against a computer that selects moves randomly.  
-This project was created as a **Semester 1 mini-project** at Amrita Vishwa Vidyapeetham.
 
 ---
 
